@@ -74,3 +74,11 @@ Ensure your Supabase database schema is up-to-date. Run the SQL scripts in `supa
 *   **Lazy Loading**: The application uses `React.lazy` and `Suspense` to load 3D labs only when needed.
 *   **Texture Resizing**: Keep textures under 2048x2048px (preferably 1024px) for mobile compatibility.
 *   **Storybook**: Use the `WebGLWrapper` decorator to prevent crashes during component testing.
+
+## 6. GitHub Pages Deployment
+
+The project is configured to deploy automatically to GitHub Pages via GitHub Actions.
+- **Trigger**: Push to `main` branch.
+- **Secrets**: `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` must be configured in repository settings.
+- **URL**: `https://<username>.github.io/<repo-name>/`
+
