@@ -1,0 +1,3 @@
+- [x] Storybook starts without "Unable to index" errors.
+- [x] Experiment stories (e.g., `WaterCycle`) render correctly in the browser.
+- [x] No `NO_I18NEXT_INSTANCE` warnings in the console.

@@ -1,0 +1,5 @@
+- [ ] `npm run check` passes with 0 errors.
+- [ ] `npm run lint` passes with 0 errors.
+- [ ] All `useEffect` hooks have correct dependency arrays (or legitimate suppressions).
+- [ ] No obvious memory leaks in Three.js components.
+- [ ] `npm run test` passes successfully.

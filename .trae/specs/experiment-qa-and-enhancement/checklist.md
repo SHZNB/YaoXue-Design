@@ -1,0 +1,6 @@
+- [x] All experiment components use `useTranslation` hook; no hardcoded strings.
+- [x] `npm run test` passes with 100% success rate for experiment tests.
+- [x] `npm run lint` reports no errors in `src/experiments`.
+- [x] `npm run check` reports no TypeScript errors in `src/experiments`.
+- [x] Storybook builds successfully and shows all new experiments.
+- [x] Every major user interaction (click, drag, input) triggers a `logAction` call.

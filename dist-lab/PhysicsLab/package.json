@@ -1,0 +1,9 @@
+{
+  "name": "@yaoxue-lab/physicslab",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "@react-three/fiber": "^8.0.0"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "lab": {
+    "loading": "Loading experiment...",
+    "start": "Start Lab",
+    "reset": "Reset",
+    "complete": "Complete",
+    "score": "Score",
+    "report": "Generate Report",
+    "tools": "Toolbox",
+    "guide": "Guide",
+    "loading_experiment": "Loading experiment...",
+    "initializing": "Initializing component...",
+    "identifying": "Identifying experiment type...",
+    "loading_engine": "Loading physics engine...",
+    "record_data": "Record Data",
+    "data_table": "Data Table",
+    "no_data": "No Data"
+  },
+  "chemistry": {
+    "water": "Distilled Water",
+    "acid": "Dilute Acid",
+    "base": "Sodium Hydroxide",
+    "indicator": "Indicator",
+    "ph": "PH Value",
+    "volume": "Volume",
+    "reaction": "Reaction in progress",
+    "titration": {
+        "added_volume": "Added Volume",
+        "ph_level": "PH Level"
+    },
+    "flame_test": {
+        "sodium": "Sodium (Na)",
+        "potassium": "Potassium (K)",
+        "copper": "Copper (Cu)",
+        "strontium": "Strontium (Sr)"
+    },
+    "electrolysis": {
+        "power_supply": "Power Supply",
+        "voltage": "Voltage"
+    }
+  },
+  "biology": {
+    "water": "Water",
+    "sunlight": "Sunlight",
+    "fertilizer": "Fertilizer",
+    "bloomed": "Bloomed",
+    "withered": "Withered",
+    "growing": "Growing",
+    "microscope": {
+        "place_slide": "Please place slide",
+        "onion_epidermis": "Onion Epidermis",
+        "cheek_epithelium": "Cheek Epithelium"
+    },
+    "photosynthesis": {
+        "light_distance": "Light Distance",
+        "high_light": "High Light",
+        "low_light": "Low Light",
+        "oxygen_bubbles": "Oxygen Bubbles"
+    },
+    "genetics": {
+        "mendel_experiment": "Mendel's Pea Experiment",
+        "p1": "P1 (Male)",
+        "p2": "P2 (Female)",
+        "breed": "Breed",
+        "dominant_homozygous": "YY (Dominant Homozygous)",
+        "heterozygous": "Yy (Heterozygous)",
+        "recessive_homozygous": "yy (Recessive Homozygous)"
+    }
+  },
+  "physics": {
+    "gravity": "Gravity",
+    "friction": "Friction",
+    "mass": "Mass",
+    "free_fall": {
+        "initial_height": "Initial Height",
+        "gravity_accel": "Gravity",
+        "mass": "Mass",
+        "start": "Start Experiment",
+        "time": "Time",
+        "height": "Height",
+        "velocity": "Velocity"
+    },
+    "pendulum": {
+        "length": "Length",
+        "mass": "Mass",
+        "angle": "Angle",
+        "period": "Period (T)",
+        "pause": "Pause",
+        "start": "Start"
+    },
+    "circuit": {
+        "battery": "Battery",
+        "resistor": "Resistor",
+        "ammeter": "Ammeter",
+        "voltmeter": "Voltmeter",
+        "voltage": "Voltage",
+        "resistance": "Resistance",
+        "switch_on": "Circuit On",
+        "switch_off": "Circuit Off"
+    }
+  },
+  "geography": {
+    "pressure": "Pressure",
+    "tension": "Tension",
+    "fold": "Fold",
+    "fault": "Fault",
+    "layer": "Rock Layer",
+    "volcano": {
+        "parameters": "Volcano Settings",
+        "viscosity": "Viscosity",
+        "gas_content": "Gas Content",
+        "shield_volcano": "Shield Volcano",
+        "stratovolcano": "Stratovolcano",
+        "effusive": "Effusive",
+        "explosive": "Explosive",
+        "simulate_eruption": "Simulate Eruption",
+        "erupting": "Erupting..."
+    },
+    "water_cycle": {
+        "climate_control": "Climate Control",
+        "temperature": "Temperature",
+        "humidity": "Humidity"
+    },
+    "plate_tectonics": {
+        "simulator": "Tectonics Simulator",
+        "current_structure": "Current Structure",
+        "horizontal_layers": "Horizontal Layers",
+        "force_magnitude": "Force Magnitude",
+        "force_type": "Force Type",
+        "pressure_label": "Pressure",
+        "tension_label": "Tension"
+    }
+  }
+}

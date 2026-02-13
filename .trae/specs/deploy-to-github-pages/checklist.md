@@ -1,0 +1,3 @@
+- [x] Local build runs successfully (`npm run build`).
+- [ ] Code committed to local git repository.
+- [ ] Code pushed to remote repository (`origin main` or `master`).

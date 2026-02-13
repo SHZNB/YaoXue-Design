@@ -1,0 +1,5 @@
+- [ ] Database schema allows defining steps and variables
+- [ ] `LabContainer` shows "Design" and "Notebook" tabs
+- [ ] Users can define hypothesis and variables
+- [ ] Users can record data points in a table
+- [ ] Users can compare two datasets (Control vs Experimental)

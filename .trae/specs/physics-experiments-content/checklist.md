@@ -1,0 +1,7 @@
+- [ ] `PhysicsLab` renders Free Fall when selected
+- [ ] `PhysicsLab` renders Pendulum when selected
+- [ ] `PhysicsLab` renders Circuit when selected
+- [ ] Free Fall experiment allows changing height/gravity
+- [ ] Pendulum experiment allows changing length/angle
+- [ ] Circuit experiment allows toggling switch
+- [ ] Data is auto-logged to the notebook

@@ -1,0 +1,3 @@
+- [ ] `src/test/setup.ts` contains mocks for `supabase`.
+- [ ] `src/test/setup.ts` contains `vi.clearAllTimers()` in `afterEach`.
+- [ ] `npm run test` completes in under 20 seconds.

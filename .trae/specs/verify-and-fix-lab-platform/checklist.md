@@ -1,0 +1,4 @@
+- [ ] Storybook builds successfully (`npm run build-storybook`)
+- [ ] All unit tests pass (`npm run test`)
+- [ ] `start-lab.sh` is valid and executable
+- [ ] No critical linter errors remain

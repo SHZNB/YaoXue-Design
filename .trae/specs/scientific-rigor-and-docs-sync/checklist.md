@@ -1,0 +1,7 @@
+- [ ] `ExperimentDataPanel` is implemented and used in all experiments.
+- [ ] Physics experiments allow recording data and showing it in a table.
+- [ ] Chemistry experiments allow recording data and showing it in a table.
+- [ ] Biology experiments allow recording data and showing it in a table.
+- [ ] Geography experiments allow recording data and showing it in a table.
+- [ ] All 12 Storybook stories render correctly without errors.
+- [ ] `npm run test` passes (unit tests updated).

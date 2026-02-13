@@ -1,0 +1,134 @@
+{
+  "lab": {
+    "loading": "实验加载中...",
+    "start": "开始实验",
+    "reset": "重置",
+    "complete": "完成",
+    "score": "得分",
+    "report": "生成报告",
+    "tools": "工具箱",
+    "guide": "操作指南",
+    "loading_experiment": "加载实验...",
+    "initializing": "初始化组件...",
+    "identifying": "识别实验类型中...",
+    "loading_engine": "加载物理引擎...",
+    "record_data": "记录数据",
+    "data_table": "数据记录表",
+    "no_data": "暂无数据"
+  },
+  "chemistry": {
+    "water": "蒸馏水",
+    "acid": "稀盐酸",
+    "base": "氢氧化钠",
+    "indicator": "指示剂",
+    "ph": "PH 值",
+    "volume": "体积",
+    "reaction": "反应进行中",
+    "titration": {
+        "added_volume": "加入体积",
+        "ph_level": "PH 值"
+    },
+    "flame_test": {
+        "sodium": "钠 (Na)",
+        "potassium": "钾 (K)",
+        "copper": "铜 (Cu)",
+        "strontium": "锶 (Sr)"
+    },
+    "electrolysis": {
+        "power_supply": "电源",
+        "voltage": "电压"
+    }
+  },
+  "biology": {
+    "water": "水分",
+    "sunlight": "光照",
+    "fertilizer": "肥料",
+    "bloomed": "开花",
+    "withered": "枯萎",
+    "growing": "生长中",
+    "microscope": {
+        "place_slide": "请放置载玻片",
+        "onion_epidermis": "洋葱表皮",
+        "cheek_epithelium": "口腔上皮"
+    },
+    "photosynthesis": {
+        "light_distance": "光源距离",
+        "high_light": "强光",
+        "low_light": "弱光",
+        "oxygen_bubbles": "氧气气泡数"
+    },
+    "genetics": {
+        "mendel_experiment": "孟德尔豌豆杂交实验",
+        "p1": "父本 (P1)",
+        "p2": "母本 (P2)",
+        "breed": "进行杂交",
+        "dominant_homozygous": "YY (显性纯合)",
+        "heterozygous": "Yy (杂合子)",
+        "recessive_homozygous": "yy (隐性纯合)"
+    }
+  },
+  "physics": {
+    "gravity": "重力",
+    "friction": "摩擦力",
+    "mass": "质量",
+    "free_fall": {
+        "initial_height": "初始高度",
+        "gravity_accel": "重力加速度",
+        "mass": "质量",
+        "start": "开始实验",
+        "time": "时间",
+        "height": "高度",
+        "velocity": "速度"
+    },
+    "pendulum": {
+        "length": "摆长",
+        "mass": "摆球质量",
+        "angle": "释放角度",
+        "period": "周期",
+        "pause": "暂停",
+        "start": "开始"
+    },
+    "circuit": {
+        "battery": "电池",
+        "resistor": "电阻器",
+        "ammeter": "电流表",
+        "voltmeter": "电压表",
+        "voltage": "电压",
+        "resistance": "电阻",
+        "switch_on": "电路接通",
+        "switch_off": "电路断开"
+    }
+  },
+  "geography": {
+    "pressure": "挤压力",
+    "tension": "张力",
+    "fold": "褶皱",
+    "fault": "断层",
+    "layer": "岩层",
+    "volcano": {
+        "parameters": "火山参数设置",
+        "viscosity": "岩浆粘度",
+        "gas_content": "气体含量",
+        "shield_volcano": "盾状火山",
+        "stratovolcano": "成层火山",
+        "effusive": "溢流",
+        "explosive": "爆发",
+        "simulate_eruption": "模拟喷发",
+        "erupting": "喷发中..."
+    },
+    "water_cycle": {
+        "climate_control": "气候控制",
+        "temperature": "气温",
+        "humidity": "湿度"
+    },
+    "plate_tectonics": {
+        "simulator": "地质构造模拟器",
+        "current_structure": "当前构造",
+        "horizontal_layers": "水平岩层",
+        "force_magnitude": "力的大小",
+        "force_type": "作用力类型",
+        "pressure_label": "挤压",
+        "tension_label": "拉伸"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+- [ ] `npm run check` passes with 0 errors.
+- [ ] `npm run lint` passes with 0 errors.
+- [ ] `src/test/setup.ts` exists and `src/test/setup.tsx` is removed.

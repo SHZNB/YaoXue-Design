@@ -1,0 +1,7 @@
+- [ ] `Genetics.tsx` has correct `GeneticsData` type.
+- [ ] `Microscope.tsx` has correct `MicroscopeData` type.
+- [ ] `Photosynthesis.tsx` has correct `PhotosynthesisData` type.
+- [ ] `Circuit.tsx` has correct `DataPoint` type.
+- [ ] `FreeFall.tsx` has correct `DataPoint` type.
+- [ ] `Pendulum.tsx` has correct `DataPoint` type.
+- [ ] `npm run check` passes.

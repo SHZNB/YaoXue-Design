@@ -1,0 +1,5 @@
+- [ ] `npm run test` completes successfully in under 10 seconds.
+- [ ] No React warnings about "update not wrapped in act" in console.
+- [ ] Physics simulation (FreeFall) runs smoothly (60fps) without stuttering.
+- [ ] `ExperimentDataPanel` shows scores or feedback (Gamification).
+- [ ] `Microscope` and `Titration` have interactive challenges.
