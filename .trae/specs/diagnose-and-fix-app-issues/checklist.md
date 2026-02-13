@@ -1,0 +1,5 @@
+- [x] Local build (`npm run build`) succeeds without errors.
+- [x] `vite.config.ts` has correct `base: './'`.
+- [x] `src/App.tsx` uses `HashRouter` and not `BrowserRouter`.
+- [x] `src/lib/supabase.ts` handles missing environment variables gracefully (e.g. logs warning or sets dummy value).
+- [x] No critical console errors in the browser console when app starts (simulated via tests/review).
