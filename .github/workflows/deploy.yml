@@ -33,9 +33,8 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          # 如果你有环境变量需要在构建时注入，可以在这里添加
-          # VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
-          # VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
           CI: false # 防止因警告而导致构建失败
 
       - name: Setup Pages
