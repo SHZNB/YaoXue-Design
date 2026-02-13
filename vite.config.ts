@@ -5,15 +5,13 @@ import tsconfigPaths from "vite-tsconfig-paths";
 import { traeBadgePlugin } from 'vite-plugin-trae-solo-badge';
 
 // https://vite.dev/config/
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-import { storybookTest } from '@storybook/addon-vitest/vitest-plugin';
-import { playwright } from '@vitest/browser-playwright';
-const dirname = typeof __dirname !== 'undefined' ? __dirname : path.dirname(fileURLToPath(import.meta.url));
+// import path from 'node:path';
+// import { fileURLToPath } from 'node:url';
+// const isTest = process.env.NODE_ENV === 'test' || process.env.VITEST;
 
 // More info at: https://storybook.js.org/docs/next/writing-tests/integrations/vitest-addon
 export default defineConfig({
-  base: './',
+  base: './', // Ensure correct base path for GitHub Pages
   plugins: [react({
     babel: {
       plugins: ['react-dev-locator']
